@@ -1,11 +1,6 @@
-This level is really quite straight-forward with knowledge of ssh. All that is required is for you to secure shell into 
+# Bandit Level 0 → Level 1
 
-`ssh bandit0@bandit.labs.overthewire.org -p 2220`
+This level is really quite straightforward with knowledge of SSH. All that is required is for you to secure shell into:
 
-using the password bandit0.
-
-The password is in plain text in the "readme" text file when you gain access to the machine. 
-
-You discover this by using `ls`. Followed by `cat` to read the contents of the file.
-
-The password for level1 is displayed in plain text.
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
