@@ -1,4 +1,4 @@
-# Bandit Level 9 - Level 10
+# Bandit Level 8 - Level 9
 
 In this level you are tasked with finding a unique string of characters inside a "data.txt" file. 
 This can be achieved by running the command: 
