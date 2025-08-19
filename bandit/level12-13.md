@@ -1,4 +1,4 @@
-# Bandit Level 13 - Level 14
+# Bandit Level 12 - Level 13
 
 Data.txt is a hex dump of a file that has been repeatedly compressed. In this level you have to
 figure out how to decompress the file. I started by following the instructions on the page saying that
