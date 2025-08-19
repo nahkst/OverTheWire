@@ -1,4 +1,4 @@
-# Bandit Level 10 - Level 11
+# Bandit Level 9 - Level 10
 
 It is required that you find the human-readable text inside the "data.txt" file. The passwor is prepended with 
 "=" which should help to search for the correct string. 
