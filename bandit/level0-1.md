@@ -1,4 +1,4 @@
-# Bandit Level 1 → Level 2
+# Bandit Level 0 → Level 1
 
 Once you gain access to bandit1:
 
