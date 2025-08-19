@@ -1,5 +1,9 @@
 # OverTheWire
-This is my journey through the well-known OverTheWire exercises. I’m taking a hands-on approach, relying on my own skills rather than external aids. My current knowledge of Linux and the terminal has helped me work through much of the Bandit series, and I hope the rest of the challenges will be just as instructive. This is my documentation of that journey. If you notice any errors or have suggestions, feel free to reach out to me.
+Hello! This is my journey through the well-known OverTheWire exercises. I am a web developer pivoting into Cyber Security, and here I am documenting my process. Believe it or not, I’m not using AI at all for this, nor am I directly searching for answers. That would completely defeat the purpose of learning. Instead, I research the concepts and figure out the solutions myself.
+
+With my limited knowledge of the Linux terminal, I’ve successfully solved the majority of the Bandit exercises. As I progress, I’m beginning to see what hacking is really about, and it’s fascinating. I initially stepped into the world of programming and development because I enjoy solving problems. Cyber Security seems to be all about that combining different facets of knowledge to break or modify how something works. It’s brilliant, and I can’t wait to learn more.
+
+My name is Joshua, and this is my journey.
 
 # War Games
 
