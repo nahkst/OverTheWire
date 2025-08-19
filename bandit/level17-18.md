@@ -1,4 +1,4 @@
-# Bandit Level 18 - Level 19
+# Bandit Level 17 - Level 18
 
 The password for level 18 is stored in the passwords.new file, and is the only line that
 is different from passwords.old. 
