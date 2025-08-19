@@ -2,6 +2,6 @@
 This is my journey traversing the well known OverTheWire exercises. 
 
 
-# Bandit War Game
+# War Games
 
-[BANDIT README](bandit/README.md)
+[BANDIT](bandit/README.md)
