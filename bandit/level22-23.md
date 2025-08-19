@@ -5,7 +5,7 @@ Basically you need to be able to read the script and tell what it does.
 This one in particular takes the name "bandit22" from `whoami` and creates a target folder: 
 
 ```bash
-myname=whoami
+myname=$(whoami)
 mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
 ```
 
@@ -31,4 +31,22 @@ Copy the value for the tmp file and do:
 cat /tmp/VALUE_TO_TMP_FILE
 ```
 
-Hey presto! There's the password for the next round. 
+Right, so now that I've explained this part. I need to now explain the next step.
+
+Because you are logged in as "bandit22" when running this script. The hashed string will be for bandit22. This means
+that we have to trick the system into created a hashed string for bandit23. I did this by doing: 
+
+```bash
+myname="bandit23"
+echo I am $myname | md5sum
+```
+
+Which returned a hashed value, I copied that and used `cat` to print out the value from the temporary
+file called 
+
+
+```bash
+cat /tmp/VALUE_TO_TMP_FILE
+```
+
+Hey presto! You've got your password.
