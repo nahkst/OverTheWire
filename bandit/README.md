@@ -27,3 +27,4 @@
 - [Level 21-22](level21-22.md)
 - [Level 22-23](level22-23.md)
 - [Level 23-24](level23-24.md)
+- [Level 24-25](level24-25.md)
