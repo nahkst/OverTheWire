@@ -64,8 +64,8 @@ Which then revealed the password.
 
 I initially tried to create a symlink to the folder, connecting /tmp/something to /var/spool/bandit24/foo
 but when I used `cp` to copy the file to the /bandit24/foo folder. It actually worked to my surprise. 
-I am not sure if this was supposed to happen, it felt like it wasn't because bandit23 shouldn't have had
-access to that specific folder. Anyhow, it worked.
+I am not sure if this was supposed to happen. I dont think it should have because bandit23 isn't suppsed 
+to have had access to that specific folder. Anyhow, it worked.
 
 After that it was just a matter of time before the password was saved to the file `tmppass`.
 
