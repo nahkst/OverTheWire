@@ -63,4 +63,4 @@ Which gave me access to the bandit26 password file. I copied that and saved it l
 
 This is where 
 
-[Bandit 27](./bandit26-27.md) comes in.
+[Bandit 27](./level26-27.md) comes in.
